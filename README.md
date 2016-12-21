@@ -10,10 +10,10 @@ Composer package manager
 Example: how to integrate Mysql and Mongo to create, update and delete post from the 
 admin console.
 
-Plase install the mongo db driver if it is not installed:
+Please install the mongo db driver if it is not installed:
 https://pecl.php.net/package/mongodb/1.2.2/windows
 
-Import the databases mockdat example: blog/database/dumps
+Import the databases mockdata example: blog/database/dumps
 
 Change the databse credentials : config/database.php
 
